@@ -1,5 +1,5 @@
 
-public class Hello {
+public class StarterApplication {
 
     public static void main(String[] args) {
 
