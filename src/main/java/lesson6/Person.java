@@ -1,4 +1,4 @@
-
+package lesson6;
 
 class Person {
 
